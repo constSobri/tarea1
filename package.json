@@ -1,0 +1,23 @@
+{
+  "name": "tarea1",
+  "version": "1.0.0",
+  "description": "Mi primera tarea de node para OpenBootCamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/constSobri/tarea1.git"
+  },
+  "keywords": [
+    "first"
+  ],
+  "author": "Sobri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/constSobri/tarea1/issues"
+  },
+  "homepage": "https://github.com/constSobri/tarea1#readme"
+}
